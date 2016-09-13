@@ -1,0 +1,2 @@
+all:
+	gcc -g main.c fileio.c parse.c hash/prime.c hash/hashtable.c hash/hashfunction.c train.c categorize.c -lm -o categorize

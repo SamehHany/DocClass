@@ -1,0 +1,11 @@
+*.swp
+.~
+thumbs.db
+*.o
+*.lib
+*.so
+*.out
+20_newsgroups/
+test-train/
+git-list-tracked
+git-list-untracked
